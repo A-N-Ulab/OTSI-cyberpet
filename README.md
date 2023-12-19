@@ -1,1 +1,8 @@
-# OTSI-cyberpet
+- [ ] leveling: time spent, number of interactions                                                                                           
+- [ ] hp, hp goes down when stats are low but it's impossible to go below hp=1. When hp low wery tired, not able to do practicaly anything   
+- [ ] different faces when happines low                                                                                                      
+- [ ] sunlight exposure                                                                                                               
+- [ ] saving to eeprom                                                                                                                       
+- [ ] interactions:  
+    - [ ] when not listening to music and interact pressed asks "how are you" or sth, generaly random from a list                            
+- [ ] when more than 4 wifi networks detected - multiple screens                                                                    
