@@ -5,6 +5,7 @@
     - [ ] time till first boot
     - [ ] number of interactions
     - [ ] other stats?
+    - [ ] first turn on or not
 - [ ] leveling: time spent, number of interactions                                                                                           
 - [ ] hp, hp goes down when stats are low but it's impossible to go below hp=1. When hp low wery tired, not able to do practicaly anything   
 - [ ] different faces when happines low                                                                                                      
