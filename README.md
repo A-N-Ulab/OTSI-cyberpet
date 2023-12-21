@@ -1,6 +1,6 @@
 - [ ] saving to eeprom
     - [x] utc
-    - [ ] ssid and password
+    - [x] ssid and password
     - [ ] happiness, hp, lvl, sun
     - [ ] time till first boot
     - [ ] number of interactions
