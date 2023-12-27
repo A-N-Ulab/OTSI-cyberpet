@@ -1,4 +1,4 @@
-- [ ] saving to eeprom
+- [x] saving to eeprom
     - [x] utc
     - [x] ssid and password
     - [x] happiness, hp, lvl, sun
