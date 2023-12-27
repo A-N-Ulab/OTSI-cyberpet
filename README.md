@@ -11,7 +11,7 @@
 - [x] sunlight exposure                                                                                                                                                                                                                            
 - [x] dev tools - reset all values saved to eeprom
 - [x] fix utc for daylight saving time
-- [ ] when woken up x amount of times sth happens
+- [x] when woken up x amount of times sth happens
 - [ ] when more than 4 wifi networks detected - multiple screens
 - [ ] interactions:  
     - [ ] when not listening to music and interact pressed asks "how are you" or sth, generaly random from a list                            
