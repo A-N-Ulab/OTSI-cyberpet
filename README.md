@@ -12,6 +12,7 @@
 - [ ] sunlight exposure                                                                                                                                                                                                                            
 - [ ] wjen woken up x amount of times sth happens
 - [ ] fix utc fot daylight saving time
-- [ ] when more than 4 wifi networks detected - multiple screens                                                                    
+- [ ] when more than 4 wifi networks detected - multiple screens
+- [ ] lora                                                             
 - [ ] interactions:  
     - [ ] when not listening to music and interact pressed asks "how are you" or sth, generaly random from a list                            
