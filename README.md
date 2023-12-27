@@ -1,15 +1,15 @@
 - [ ] saving to eeprom
     - [x] utc
     - [x] ssid and password
-    - [ ] happiness, hp, lvl, sun
+    - [x] happiness, hp, lvl, sun
     - [x] time till first boot
     - [x] number of interactions
     - [ ] other stats?
-    - [ ] first turn on or not
+    - [x] first turn on or not
 - [x] leveling: time spent, number of interactions                                                                                           
-- [ ] hp, hp goes down when stats are low but it's impossible to go below hp=1. When hp low wery tired, not able to do practicaly anything   
+- [x] hp, hp goes down when stats are low but it's impossible to go below hp=1. When hp low wery tired, not able to do practicaly anything   
 - [ ] different faces when happines low                                                                                                      
-- [ ] sunlight exposure                                                                                                                                                                                                                            
+- [x] sunlight exposure                                                                                                                                                                                                                            
 - [ ] wjen woken up x amount of times sth happens
 - [ ] fix utc fot daylight saving time
 - [ ] when more than 4 wifi networks detected - multiple screens
