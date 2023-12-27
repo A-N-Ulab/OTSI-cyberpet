@@ -2,8 +2,8 @@
     - [x] utc
     - [x] ssid and password
     - [ ] happiness, hp, lvl, sun
-    - [ ] time till first boot
-    - [ ] number of interactions
+    - [x] time till first boot
+    - [x] number of interactions
     - [ ] other stats?
     - [ ] first turn on or not
 - [ ] leveling: time spent, number of interactions                                                                                           
