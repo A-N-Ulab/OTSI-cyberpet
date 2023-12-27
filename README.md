@@ -10,7 +10,7 @@
 - [x] different faces when happines low                                                                                                       
 - [x] sunlight exposure                                                                                                                                                                                                                            
 - [x] dev tools - reset all values saved to eeprom
-- [ ] fix utc for daylight saving time
+- [x] fix utc for daylight saving time
 - [ ] when woken up x amount of times sth happens
 - [ ] when more than 4 wifi networks detected - multiple screens
 - [ ] interactions:  
