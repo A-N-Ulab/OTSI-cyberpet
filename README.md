@@ -12,7 +12,7 @@
 - [x] dev tools - reset all values saved to eeprom
 - [x] fix utc for daylight saving time
 - [x] when woken up x amount of times sth happens
-- [ ] when more than 4 wifi networks detected - multiple screens
+- [x] when more than 5 wifi networks detected change screens - FOR NOW RETURNS AN ERROR
 - [ ] interactions:  
     - [ ] when not listening to music and interact pressed asks "how are you" or sth, generaly random from a list                            
 - [ ] lora                                                             
