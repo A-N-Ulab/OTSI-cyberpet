@@ -7,7 +7,7 @@
     - [x] first turn on or not
 - [x] leveling: time spent, number of interactions                                                                                           
 - [x] hp, hp goes down when stats are low but it's impossible to go below hp=1. When hp low wery tired, not able to do practicaly anything   
-- [x] different faces when happines low                                                                                                      
+- [x] different faces when happines low                                                                                                       
 - [x] sunlight exposure                                                                                                                                                                                                                            
 - [x] dev tools - reset all values saved to eeprom
 - [ ] fix utc for daylight saving time
