@@ -1,18 +1,1 @@
-- [x] saving to eeprom
-    - [x] utc
-    - [x] ssid and password
-    - [x] happiness, hp, lvl, sun
-    - [x] time till first boot
-    - [x] number of interactions
-    - [x] first turn on or not
-- [x] leveling: time spent, number of interactions                                                                                           
-- [x] hp, hp goes down when stats are low but it's impossible to go below hp=1. When hp low wery tired, not able to do practicaly anything   
-- [x] different faces when happines low                                                                                                       
-- [x] sunlight exposure                                                                                                                                                                                                                            
-- [x] dev tools - reset all values saved to eeprom
-- [x] fix utc for daylight saving time
-- [x] when woken up x amount of times sth happens
-- [x] when more than 5 wifi networks detected change screens - MORE THAN FOUR NOW RETURNS AN ERROR
-- [ ] interactions:  
-    - [ ] when not listening to music and interact pressed asks "how are you" or sth, generaly random from a list                            
-- [ ] lora                                                             
+
