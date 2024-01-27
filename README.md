@@ -12,9 +12,8 @@
 <p align="center">
   <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/705cb7bc-523f-4a10-80e8-7dd7ab574440" height="auto" width="330">
   <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/80723e43-d20f-4c51-9b04-db50c9392800" height="auto" width="330">
-  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/0d53a4e3-3bbc-410b-9f76-b4208923c570" height="auto" width="330">
+  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/ad5e6828-a9dd-4269-b79f-161b0dead243" height="auto" width="330">
 </p>
-
 
 # About this project
 ### Story
@@ -26,8 +25,8 @@ Main menu is based on a desing by [upirr](https://github.com/upiir/arduino_oled_
 This project wouldn't be possible without awesome cyberdeck cafe's community. [Cyberdeck cafe website](https://cyberdeck.cafe/), [Cyberdeck cafe discord](https://discord.gg/cyberdeck-cafe-607459933784637460)
 
 ### Disclaimers
-* THIS PROJECTS IS WORK IN PROGRESS
-There are a lot of things that can and probably will change, to get latest cad files, code and instructions download lates [release](https://github.com/A-N-Ulab/OTSI-cyberpet/releases/latest)
+THIS PROJECTS IS WORK IN PROGRESS but updates will be in 2ish weeks, i need a break   
+* There are a lot of things that can and probably will change, to get latest cad files, code and instructions download lates [release](https://github.com/A-N-Ulab/OTSI-cyberpet/releases/latest)
 * soldering otsi is not beginner friendly, have it in mind before you start this project
 
 # Build your own
