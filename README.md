@@ -6,7 +6,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/ANUlab&Glinek-Otsi-blue">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/A-N-Ulab/OTSI-cyberpet">
   <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/w/A-N-Ulab/OTSI-cyberpet/main">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/A-N-Ulab/OTSI-cyberpet">
+  <img alt="Static Badge" src="https://img.shields.io/badge/License-CC_BY_4.0-blue">
 </p>
 
 
