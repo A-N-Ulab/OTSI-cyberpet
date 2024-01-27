@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/705cb7bc-523f-4a10-80e8-7dd7ab574440" height="auto" width="300">
-  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/80723e43-d20f-4c51-9b04-db50c9392800" height="auto" width="300">
-  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/ad5e6828-a9dd-4269-b79f-161b0dead243" height="auto" width="300">
+  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/705cb7bc-523f-4a10-80e8-7dd7ab574440" height="auto" width="250">
+  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/80723e43-d20f-4c51-9b04-db50c9392800" height="auto" width="250">
+  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/ad5e6828-a9dd-4269-b79f-161b0dead243" height="auto" width="250">
 </p>
 
 # About this project
