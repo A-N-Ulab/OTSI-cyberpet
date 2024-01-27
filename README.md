@@ -66,4 +66,6 @@ Set those to variables to WiFi network that you always want to connect to, your 
 After that you are ready to upload arduino code to your heltec or from your own Otsi cyberpet   
 
 ### Usage
-to go to main many or chose some option press enoder button, button number 1 is a return, everything else will be descibed on otsi itself
+To go to main many or chose some option press enoder button, button number 1 is a return, everything else will be descibed on otsi itself.  
+To charge Otsi use port on the top. To program Otsi use USB cable.  
+NEVER PLUG IN OTSI TO USB WHEN POWER SWITCH IS TURNED ON
