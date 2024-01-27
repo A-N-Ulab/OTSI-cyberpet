@@ -2,6 +2,7 @@
   <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/a7465629-5936-4026-bd4e-a9c7b908ea3b">
 </p>
 <p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/have%20fun%20while%20making%20otsi-yellow">
   <img alt="Static Badge" src="https://img.shields.io/badge/ANUlab&Glinek-Otsi-blue">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/A-N-Ulab/OTSI-cyberpet">
   <img alt="GitHub License" src="https://img.shields.io/github/license/A-N-Ulab/OTSI-cyberpet">
