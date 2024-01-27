@@ -16,6 +16,7 @@ It all started when [cyberdeck cafe](https://cyberdeck.cafe/) announced a contes
 
 ### Credits
 Otsi's graphics are based on axolotl design made by [witch](https://dinopixel.com/pixel-art/purple-axolotl/17015)   
+Main manu is based on a desing by [upirr](https://github.com/upiir/arduino_oled_menu)   
 This project wouldn't be possible without awesome cyberdeck cafe's community. [Cyberdeck cafe website](https://cyberdeck.cafe/), [Cyberdeck cafe discord](https://discord.gg/cyberdeck-cafe-607459933784637460)
 
 ### Disclaimers
