@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/a7465629-5936-4026-bd4e-a9c7b908ea3b">
+</p>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ANUlab&Glinek-Otsi-blue">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/A-N-Ulab/OTSI-cyberpet">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/A-N-Ulab/OTSI-cyberpet">
+</p>
+
+
+# About this project
+### Story
+It all started when [cyberdeck cafe](https://cyberdeck.cafe/) announced a contest for cyberpet based on heltec development board. And fast forward 6 months my cyberpet is ALMOST done.
+
+### Credits
+Otsi's graphics are based on axolotl design made by [witch](https://dinopixel.com/pixel-art/purple-axolotl/17015)   
+This project wouldn't be possible without awesome cyberdeck cafe's comunity. [Cyberdeck cafe website](https://cyberdeck.cafe/), [Cyberdeck cafe discord](https://discord.gg/cyberdeck-cafe-607459933784637460)
+
+### Disclaimers
+* THIS PROJECTS IS WORK IN PROGRESS
+There are a lot of things that can and probably will change, to get latest cad files, code and instructions download lates [release](https://github.com/A-N-Ulab/OTSI-cyberpet/releases/latest)
+* soldering otsi is not beginner friendly, have it in mind before you start this project
+
 # Build your own
 ### Needed items
 Detailed information about needed items is in the newest release in pdf called *__list of items needed__*
@@ -23,3 +46,24 @@ Detailed information about needed items is in the newest release in pdf called *
 | I2C 0.96inch OLED | 1 | - |
 | 10k resistor | 5 | - |
 
+### Case
+Theoretcaly you could design your own case but I'm providing my case design. There are 5 stl's:  
+* Antena holder - print withour support
+* Knob - print without support
+* Cover - pritn with support
+* Two Main body files, one with holes for m2 threded inserts one with holes just for screws - both are print without support   
+Additionaly there are 2 files (.f3d and .step) that contain whole Otsi design
+
+### Schematic and soldering
+More accurate schematic is avaiable in latest release in pfg called *__schematic__*  
+![schematic image](https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/9042c696-bbe9-449c-8ecf-2df62a072ed3)      
+Solder everything according to the schematic provided, for additional help in latest release there is a file named *__photos__* that have, as name sugests, all the photos from my process of soldering with some extra highlights and explanation.
+
+### Software
+Before uploading otsi's code you are going to have to change 2 variables:    
+<img width="400" src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/06644cf0-b99a-4477-9333-134a14bbfa56">     
+Set those to variables to WiFi network that you always want to connect to, your *__home wifi__*     
+After that you are ready to upload arduino code to your heltec or from your own Otsi cyberpet   
+
+### Usage
+to go to main many or chose some option press enoder button, button number 1 is a return, everything else will be descibed on otsi itself
