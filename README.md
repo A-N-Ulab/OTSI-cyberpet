@@ -45,6 +45,8 @@ Detailed information about needed items is in the newest release in pdf called *
 | 1W led | 1 | max heatsink diameter 20mm |
 | I2C 0.96inch OLED | 1 | - |
 | 10k resistor | 5 | - |
+| M2 threaded inserts | 6 | - |
+| M2x8mm screws | 6 | - |
 
 ### Case
 Theoretcaly you could design your own case but I'm providing my case design. There are 5 stl's:  
