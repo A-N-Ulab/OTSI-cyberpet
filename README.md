@@ -20,5 +20,6 @@ Detailed information about needed items is in the newest release in pdf called *
 | push button | 1 | 6x6mm |
 | USB C cable| 1 | USB A to USB C|
 | 1W led | 1 | max heatsink diameter 20mm |
-| I2C 0.96inch OLED| 1 | - |
+| I2C 0.96inch OLED | 1 | - |
+| 10k resistor | 5 | - |
 
