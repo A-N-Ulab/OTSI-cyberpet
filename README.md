@@ -9,6 +9,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/License-CC_BY_4.0-blue">
 </p>
 
+<p align="center">
+  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/705cb7bc-523f-4a10-80e8-7dd7ab574440" height="auto" width="330">
+  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/80723e43-d20f-4c51-9b04-db50c9392800" height="auto" width="330">
+  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/0d53a4e3-3bbc-410b-9f76-b4208923c570" height="auto" width="330">
+</p>
+
 
 # About this project
 ### Story
