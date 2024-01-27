@@ -57,7 +57,7 @@ Additionaly there are 2 files (.f3d and .step) that contain whole Otsi design
 ### Schematic and soldering
 More accurate schematic is avaiable in latest release in pfg called *__schematic__*  
 ![schematic image](https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/9042c696-bbe9-449c-8ecf-2df62a072ed3)      
-Solder everything according to the schematic provided, for additional help in latest release there is a file named *__photos__* that have, as name sugests, all the photos from my process of soldering with some extra highlights and explanation.
+Solder everything according to the schematic provided, for additional help in latest release there is a file named *__photos__* that have, as name sugests, all the photos from my process of soldering.
 
 ### Software
 Before uploading otsi's code you are going to have to change 2 variables:    
