@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/a7465629-5936-4026-bd4e-a9c7b908ea3b">
+  <img src="https://github.com/user-attachments/assets/bffa7ad6-7b30-46d0-91c1-dad907e2987c">
+
 </p>
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/have%20fun%20while%20making%20otsi-yellow">
@@ -10,10 +11,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/705cb7bc-523f-4a10-80e8-7dd7ab574440" height="auto" width="270">
-  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/80723e43-d20f-4c51-9b04-db50c9392800" height="auto" width="270">
-  <img src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/ad5e6828-a9dd-4269-b79f-161b0dead243" height="auto" width="270">
+  <img src="https://github.com/user-attachments/assets/f397862c-074a-4087-874d-5656f7cdeb85" height="auto" width="270">
+  <img src="https://github.com/user-attachments/assets/ea9fdc0b-ff0c-4472-b5a0-6ee7da01e56f" height="auto" width="270">
+  <img src="https://github.com/user-attachments/assets/aef10ea6-231c-46ee-82da-f4992b610f7e" height="auto" width="270">
+
+
 </p>
+
+**<p align="center">Info! This is a reupload of Otsi's repo bc of security stuff</p>**
 
 # About this project
 ### Story
@@ -24,8 +29,7 @@ Otsi's graphics are based on axolotl design made by [witch](https://dinopixel.co
 Main menu is based on a desing by [upirr](https://github.com/upiir/arduino_oled_menu)   
 This project wouldn't be possible without awesome cyberdeck cafe's community. [Cyberdeck cafe website](https://cyberdeck.cafe/), [Cyberdeck cafe discord](https://discord.gg/cyberdeck-cafe-607459933784637460)
 
-### Disclaimers
-THIS PROJECTS IS WORK IN PROGRESS but updates will be in 2ish weeks, i need a break   
+### Disclaimers 
 * There are a lot of things that can and probably will change, to get latest cad files, code and instructions download lates [release](https://github.com/A-N-Ulab/OTSI-cyberpet/releases/latest)
 * soldering otsi is not beginner friendly, have it in mind before you start this project
 
@@ -66,12 +70,13 @@ Additionaly there are 2 files (.f3d and .step) that contain whole Otsi design
 
 ### Schematic and soldering
 More accurate schematic is avaiable in latest release in pdf called *__schematic__*  
-![schematic image ](https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/c3905789-794d-46bd-b19d-3db341b41b23)
+![schematic image ](https://github.com/user-attachments/assets/b1fbe6ab-1589-4d3d-a277-3e702297a034)
 Solder everything according to the schematic provided, for additional help in latest release there is a pdf file named *__photos__* that have, as name sugests, all the photos from my soldering process.
 
 ### Software
-Before uploading otsi's code you are going to have to change 2 variables:    
-<img width="400" src="https://github.com/A-N-Ulab/OTSI-cyberpet/assets/131162335/06644cf0-b99a-4477-9333-134a14bbfa56">     
+Before uploading otsi's code you are going to have
+to change 2 variables:    
+<img width="400" src="https://github.com/user-attachments/assets/4f18a320-fe41-4a30-9ecf-ed1fd1881395">     
 Set those two variables to WiFi network (ssid and password) that you always want to connect to, your *__home wifi__*     
 After that you are ready to upload code to your heltec or from now your own Otsi cyberpet   
 
